@@ -62,6 +62,10 @@ JP_Sales by year
 
 ![](D_JP_sales.png)
 
+Release date before black friday
+
+![](D_black_friday.png)
+
 
 
 
