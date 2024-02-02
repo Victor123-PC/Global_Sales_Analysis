@@ -54,6 +54,10 @@ percentage of NA_Sale
 
 ![](D-percentage_of_NA_sales.png)
 
+Sum of EU_Sales
+
+![](D_EU_sales.png)
+
 
 
 
