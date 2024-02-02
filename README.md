@@ -74,6 +74,9 @@ Games_Platform and Global_Sales
 
 ![](D_global_sales_year.png)
 
+First_four_letter_of_publishers_names
+
+![](D_publishers.png)
 
 
 
