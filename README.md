@@ -70,6 +70,9 @@ Games_platform and the release year
 
 ![](D_game_by_platform_year.png)
 
+Games_Platform and Global_Sales
+
+![](D_global_sales_year.png)
 
 
 
