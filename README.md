@@ -35,7 +35,8 @@ The goal of this analysis is to
 **Data Source**;
 
 The data used for this work is gotten from online data source. I studied the data schema and found the right tables for the analysis. 
-Data transformation 
+
+**Data transformation** 
 
 •	Several structure queries were written to get the right values needed,platform and year of release and then save as views in the Database on SQL Management studio. The views are;
 Console Games table
