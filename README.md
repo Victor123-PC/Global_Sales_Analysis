@@ -46,6 +46,10 @@ View of the ConsoleDate
 
 ![](Data_for_console_date.png)
 
+View of the ConsoleGame
+
+![](Data_view_console_game.png)
+
 
 
 
