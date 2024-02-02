@@ -50,6 +50,10 @@ View of the ConsoleGame
 
 ![](Data_view_console_game.png)
 
+percentage of NA_Sale
+
+![](D-percentage_of_NA_sales.png)
+
 
 
 
