@@ -66,6 +66,10 @@ Release date before black friday
 
 ![](D_black_friday.png)
 
+Games_platform and the release year
+
+![](D_game_by_platform_year.png)
+
 
 
 
