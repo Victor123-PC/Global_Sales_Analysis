@@ -42,6 +42,10 @@ Console Games table
 
 The queries I wrote on SQL are compile and uploaded in this repository.
 
+View of the ConsoleDate 
+
+![](Data_for_console_date.png)
+
 
 
 
