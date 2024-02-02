@@ -58,6 +58,10 @@ Sum of EU_Sales
 
 ![](D_EU_sales.png)
 
+JP_Sales by year
+
+![](D_JP_sales.png)
+
 
 
 
